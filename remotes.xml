@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote fetch="https://github.com" name="github-cupid" review="review.lineageos.org" />
   <remote fetch="https://gitlab.com" name="gitlab" revision="lineage-20" />
 </manifest>
