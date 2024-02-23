@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="cupid-development/android_device_xiaomi_cupid" path="device/xiaomi/cupid" remote="github" />
+  <project name="KingProNoob2/android_device_xiaomi_cupid" path="device/xiaomi/cupid" remote="github" />
   <project name="cupid-development/android_device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="github" />
   <project name="LineageOS/android-hardware-xiaomi" path="hardware/xiaomi" remote="github" />
 
