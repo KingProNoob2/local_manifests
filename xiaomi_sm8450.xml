@@ -6,13 +6,13 @@
   <project name="LineageOS/android-hardware-xiaomi" path="hardware/xiaomi" remote="github" />
 
   <!-- Kernel -->
-  <project name="yarpiin/cupid_kernel_build_platform" path="cupid-kernel" remote="github" />
+  <project name="yarpiin/cupid_kernel_build_platform" path="cupid-kernel" remote="github-kernel" />
   
   <!-- Vendor -->
   <project name="ArianK16a/proprietary_vendor_xiaomi_cupid" path="vendor/xiaomi/cupid" remote="gitlab" />
   <project name="ArianK16a/proprietary_vendor_xiaomi_sm8450-common" path="vendor/xiaomi/sm8450-common" remote="gitlab" />
 
   <!-- MindTheGapps -->
-  <remote name="MindTheGapps" fetch="https://gitlab.com/MindTheGapps/" />
+  <remote name="MindTheGapps" fetch="https://gitlab.com/MindTheGapps/" revision="upsilon" />
   <project path="vendor/gapps" name="vendor_gapps" remote="MindTheGapps" />
 </manifest>
