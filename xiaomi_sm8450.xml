@@ -2,8 +2,6 @@
 <manifest>
   <!-- Device trees -->
   <project name="cupid-development/android_device_xiaomi_cupid" path="device/xiaomi/cupid" remote="ssh" />
-  <project name="cupid-development/android_device_xiaomi_mondrian" path="device/xiaomi/mondrian" remote="ssh" />
-  <project name="cupid-development/android_device_xiaomi_zeus" path="device/xiaomi/zeus" remote="ssh" />
   <project name="cupid-development/android_device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="ssh" />
   <project name="LineageOS/android-hardware-xiaomi" path="hardware/xiaomi" remote="ssh" />
 
@@ -12,6 +10,5 @@
   
   <!-- Vendor -->
   <project name="ArianK16a/proprietary_vendor_xiaomi_cupid" path="vendor/xiaomi/cupid" remote="gitlab" />
-  <project name="ArianK16a/proprietary_vendor_xiaomi_zeus" path="vendor/xiaomi/zeus" remote="gitlab" />
   <project name="ArianK16a/proprietary_vendor_xiaomi_sm8450-common" path="vendor/xiaomi/sm8450-common" remote="gitlab" />
-</manifest>
+<manifest>
