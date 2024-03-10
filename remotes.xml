@@ -2,5 +2,5 @@
 <manifest>
   <remote fetch="https://github.com" name="github-kernel" review="review.lineageos.org" revision="cupid" />
   <remote fetch="https://github.com" name="github-cupid" review="review.lineageos.org" revision="lineage-20" />
-  <remote fetch="https://gitlab.com" name="gitlab" revision="lineage-20" />
+  <remote fetch="https://gitlab.com" name="gitlab" />
 </manifest>
